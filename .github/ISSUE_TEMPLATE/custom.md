@@ -7,8 +7,16 @@ assignees: ''
 
 ---
 
-Todo
-[]Todo
+###  Description
+ex) Todo 생성 기능
 
-Limit
-9/19 00:00
+### Todo
+1. [ ] Job1
+2. [ ] Job2
+3. [ ] Job3
+
+### Expected Time
+ex) 3h
+
+### Limit Date
+ex) 12/21 2pm
